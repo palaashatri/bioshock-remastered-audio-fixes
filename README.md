@@ -1,6 +1,8 @@
 # bioshock-remastered-audio-fixes
 Mirror of nexusmod : https://www.nexusmods.com/bioshock/mods/4
 
+[Download](https://github.com/palaashatri/bioshock-remastered-audio-fixes/releases/tag/audio)
+
 _**Original content goes here :>>>>>>**_
 
 
